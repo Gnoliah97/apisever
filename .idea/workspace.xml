@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75ffad65-32a5-4e26-9043-063e20d15e51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/ApiserverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/controllers/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/dtos/requestDtos/CustomerRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/dtos/requestDtos/ProductRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/dtos/responseDtos/CustomerResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/dtos/responseDtos/LanguageResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/dtos/responseDtos/ProductResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/dtos/responseDtos/TranslationCustomerResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/dtos/responseDtos/TranslationProductResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/exceptions/CRUDException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/exceptions/FetchException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/listeners/AbstractAuditListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/mappers/CustomerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/mappers/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/models/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/models/OrderLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/models/TranslationCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/models/TranslationProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/repositories/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/repositories/LanguageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/repositories/OrderLineRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/repositories/TranslationCustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/repositories/TranslationProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/services/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver/services/impl/ProductServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/com/nhlong/apiserver" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2T6Hh9h7t7sjQi90SdGSZYJ0jeJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/study/SrpingBoot/apiserver",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "df31038e649c9e180f2b6ec54106aaaa",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ApiserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="apiserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nhlong.apiserver.ApiserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75ffad65-32a5-4e26-9043-063e20d15e51" name="Changes" comment="" />
+      <created>1690356727291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690356727291</updated>
+      <workItem from="1690356728359" duration="9753000" />
+      <workItem from="1690475371082" duration="32000" />
+      <workItem from="1690475406566" duration="82000" />
+      <workItem from="1690475561182" duration="8000" />
+      <workItem from="1690475660984" duration="53000" />
+      <workItem from="1690478594308" duration="614000" />
+      <workItem from="1690505628087" duration="13915000" />
+      <workItem from="1690530861229" duration="8601000" />
+      <workItem from="1690735949278" duration="7951000" />
+      <workItem from="1692888401970" duration="71000" />
+      <workItem from="1692891446800" duration="611000" />
+      <workItem from="1692893735997" duration="3302000" />
+      <workItem from="1692908494622" duration="1268000" />
+      <workItem from="1693200296930" duration="31000" />
+      <workItem from="1694338767323" duration="2408000" />
+      <workItem from="1709199183151" duration="956000" />
+      <workItem from="1709200378861" duration="27000" />
+      <workItem from="1709219379626" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
